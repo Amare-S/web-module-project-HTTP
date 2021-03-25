@@ -33,6 +33,10 @@ const App = (props) => {
     
   }
 
+  const EditMovieForm = (movie) => {
+    
+  }
+
   return (
     <div>
       <nav className="navbar navbar-dark bg-dark">
